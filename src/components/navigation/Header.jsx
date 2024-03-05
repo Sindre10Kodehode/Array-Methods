@@ -1,0 +1,1 @@
+// This is the header component with navbar that should be used instead of the header tag in App.jsx
