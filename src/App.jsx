@@ -74,6 +74,12 @@ function sortPets() {
   console.log("Kråke", alledyra)
   //setAlleDyra())
 }
+//! Når siden først åpnes viser "Gås" og "Nebbdys" det samme, men noe annet kommer ut på siden. Når sortPets aktiveres blir skjermen blank, og det som pleide å stå på skjermen blir skrevet i "Kråke" i konsollen. 
+
+//! aktiveres sortPets igjen, kommer bare "Kråke" i konsollen som ett tomt array.  
+
+
+
 
 // useEffect kjør hver gang siden blir lasta ELLER det blir gjort en oppdatering
 useEffect(() => {
